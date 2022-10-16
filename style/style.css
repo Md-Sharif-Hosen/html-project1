@@ -1,0 +1,172 @@
+
+.navbar{
+    height: 101px;
+    width: auto;
+    background-color: rgb(54, 82, 107);
+}
+.navbar img{
+    height: 60px;
+    width: auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar .div{
+   
+    border: 1 solid white;
+    border-radius: 5px;
+    height: 40px;
+    width: auto;
+    /* margin-bottom: px; */
+    background-color: aquamarine;
+   display: flex;
+    
+    
+}
+.div .div1 {
+    padding: 5px ;
+    display: flex;
+    margin-left: 80px;
+    
+    
+   
+}
+.div .div1 li {
+    list-style-type: none;
+    margin-top: 6px;
+
+}
+ 
+.div .div1 li a{
+  
+    margin: 40px;
+    text-decoration: none;
+     text-transform: capitalize;
+    
+     
+
+    
+     
+}
+
+.div .btn1{
+   
+    
+    margin-top: 11px;
+    margin-left: auto;
+    margin-right: 40px;
+    
+    height: 20px;
+    
+}
+.btn2{
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: rgb(228, 221, 209);
+}
+.Des1 h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    text-align: center;
+    color: rgb(54, 82, 107);
+}
+.Des1 p{
+    margin-left: 20px;
+    margin-right: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    /* color: aquamarine; */
+    font-size: medium;
+      
+}
+.Des1 p a{
+    color: rgb(207, 17, 26);
+}
+.Des2{
+    margin-top: 50px;
+    border: 1px solid white;
+   
+}
+ .Des2 h3{
+    margin: 20px;
+    text-transform: capitalize;
+ }
+.slide {
+    border: 3px solid rgb(124, 115, 115);
+    height: auto;
+    width: auto;
+    margin-left: 20px;
+    margin-right: auto;
+    border-radius: 10px;
+    
+    display: flex;
+    
+}
+.slide .s img{
+    border: 1 solid white;
+    border-radius: 10px;
+    height: 100%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.slide .s2 img{
+    margin-left: auto;
+    margin-right: auto;
+    
+    height: 100%;
+    width: 100%;
+}
+.slide .s3 img{
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 100%;
+}
+.Des2 p{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.Des3 {
+    border: 1px solid rgb(255, 254, 254);
+    margin-left: 20px;
+}
+.Des3 h3{color: rgb(54, 82, 107);;
+
+}
+.Des3 p a{
+    color: red;
+}
+
+.div8
+{
+    border: 1px solid rgb(245, 235, 235);
+    background-color: aquamarine;
+    height: 40px;
+    width: auto;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.div8 a {margin-top: 10px;
+    margin-bottom: auto;
+    color: rgb(77, 18, 18);
+    display: block;
+    text-decoration: none;
+    
+}
+.Des4 {
+    border: 1 solid white;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.Des4 h3 a {
+    text-transform: capitalize;
+    color: rgb(158, 13, 13);
+}
+a{
+    margin-left: 20px;
+color: rgb(241, 9, 9);
+}
